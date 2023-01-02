@@ -6,9 +6,8 @@
 </p>
 
 - I’m @sanmitM312 
-- 👀 I’m interested in Web-development,Backend,Distributed Systems and Brain research.
-- 🌱 I’m currently learning DSA,System-Design, and Devops.
-- 💞️ I’m looking to collaborate on open-source devops related projects.
+- 👀 I’m interested in Web-development,Backend,Distributed Systems.
+- 💞️ I’m looking to collaborate on Java/Golang related projects.
 - 📫 How to reach me : sanmitmandal17@gmail.com | [linkedin](https://www.linkedin.com/in/sanmit-mandal-4542a018a/)
 - ⚡ Fun fact: I make weird anagram jokes using people's names.
 
