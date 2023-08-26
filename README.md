@@ -1,8 +1,7 @@
 
 ### Hi there, Sanmit  here  <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='lmao_bro_no_img'>
 <p align='justify'>
-    I'm an enthusiastic programmer developing my skills as a fullstack developer . I'm passionate about coding to make people's daily life more easier by making weird tools. I have been learning new things since I got acquainted with programming.<br>
-    Code readability and using best practices are my first priorities. I really like open source!
+    I'm an enthusiastic programmer developing my skills as a fullstack developer .
 </p>
 
 - I’m @sanmitM312 
